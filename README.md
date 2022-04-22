@@ -20,10 +20,10 @@ I am a Creative React Developer with 1 year of designing useful, approachable us
                                 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
                     </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
+  <p align="left">
                           
                       <a href="https://www.github.com/vamsi-verma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
