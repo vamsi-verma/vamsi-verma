@@ -8,7 +8,7 @@ I am a Creative React Developer with 1 and a half year of designing useful, appr
 
 *   🌍  I'm based in Bhubaneswar
 *   ✉️  You can contact me at [vamsiverma021@gmail.com](mailto:vamsiverma021@gmail.com)
-*   🧠  I'm learning React JS
+*   🧠  I'm learning Node JS, mongo DB and & Express
 ### Skills
 <p align="left">
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
