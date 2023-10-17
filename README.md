@@ -4,7 +4,7 @@ Hi 👋 My name is K Vamsi Verma
 Web Developer and Designer
 --------------------------
 
-I am a Creative React Developer with 2 years of designing useful, approachable user interfaces. Knowledgeable of all aspects of Facebook's design best practices and emerging UI development techniques. Skilled at connecting exceptional assets with users via creative UI frameworks and careful user experience optimization.
+I am a Creative React Developer with 2.8 years of designing useful, approachable user interfaces. Knowledgeable of all aspects of Facebook's design best practices and emerging UI development techniques. Skilled at connecting exceptional assets with users via creative UI frameworks and careful user experience optimization.
 
 *   🌍  I'm based in Bhubaneswar
 *   ✉️  You can contact me at [vamsiverma021@gmail.com](mailto:vamsiverma021@gmail.com)
